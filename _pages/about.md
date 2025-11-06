@@ -9,6 +9,54 @@ redirect_from:
 
 I am a Network Engineering graduate from Jimei University, currently serving in the Network Operations Department at China Unicom Fujian. My work focuses on maintaining network stability, optimizing system performance, and supporting the development of reliable telecommunication services. With a strong technical foundation and a commitment to continuous learning, I strive to contribute to the advancement of network operations and digital connectivity. If you wanna know more about me, you can visit my [GitHub pages](https://github.com/Mrwhy233).
 
+University Life Experience
+======
+During my university years, I focused more on enjoying life than on being an exemplary student. I usually studied only right before exams — just enough to pass. I didn’t participate in competitions, and I took part-time jobs mostly for the experience rather than a career plan.
+
+![集美大学白天](../images/jimei1.jpg "图片title")
+
+Life at university was pretty good — at least I didn’t have to think so far ahead like I do now.
+
+![集美大学夜晚](../images/jimei2.jpg "图片title")
+
+Game Life
+======
+Life isn’t only about school or work; sometimes you just need to get out there, see the world, and open your mind a bit.
+I might be broke, but I still managed to save up for some travel.
+Honestly, I’m just writing this “travel experience” part to fill in the blank space — and as an excuse to look through old photos and relive those days.
+
+The photos from my previous trips are all stored on another phone, and honestly, I’m too lazy to dig them out right now. So I’ll just start by recording the ones I have at the moment.
+The first one is from a trip to Nanjing County — if I remember correctly, that was during the summer vacation of my junior year. I was supposed to be preparing for my postgraduate entrance exam, but got persuaded (or tricked) into going on this trip instead.
+Nanjing turned out to be a really nice place. It’s just a small county town, but to me, it feels more down-to-earth and full of life than Xiamen. The hot springs there were also pretty great.
+
+![南靖的晚霞](../images/nanjing.jpg "图片title")
+
+The next trip I took was to Shanghai and Hangzhou, right after finishing the postgraduate entrance exam. The fact that I rushed to travel right after the exam probably says a lot about how poorly I did — I had only studied for about two months anyway (not exactly the attitude of someone determined to pass).
+Shanghai is a huge and vibrant city, full of exciting things I’d never seen before. Still, I couldn’t shake the feeling that I didn’t quite belong there.
+That being said, the Bund at night was truly impressive — I have to admit, the city really shines after dark.
+
+![上海外滩](../images/shanghai.jpg "图片title")
+
+I stayed in Shanghai for about three days before heading to Hangzhou. I really liked Hangzhou — compared to Shanghai, it felt more peaceful and full of everyday life, even though the food wasn’t exactly impressive. I visited Lingyin Temple and wandered around for a while.
+
+![杭州](../images/hangzhou.jpg "图片title")
+
+After coming back from Hangzhou, it was about time to start working on my graduation project. During that period, my friend Dianyang failed one of his exams and had to take a makeup test. Out of pure curiosity — and mostly for fun — I went with him to Fuzhou University’s Jinjiang campus. We also visited the nearby beach, and honestly, it was amazing.
+
+![jj1](../images/jj1.jpg "图片title")
+
+![jj2](../images/jj2.jpg "图片title")
+
+![jj3](../images/jj3.jpg "图片title")
+
+Finally, there came the last trip before starting work — after graduation. This time, I went straight to Japan. There’s not much to say about it — it was simply a great trip, full of fun.
+
+![jp1](../images/jp1.jpg "图片title")
+
+![jp2](../images/jp2.jpg "图片title")
+
+And that’s where this journey came to an end. Next came work and a new chapter of life. I hope I’ll be able to keep adding new photos in the future.
+
 <!-- A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.

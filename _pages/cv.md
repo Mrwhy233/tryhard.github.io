@@ -35,12 +35,24 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Programming & Development**
+  * Python, Java, Shell
+  * Android application development (UI design, API integration, performance tuning)
+  * RESTful API, JSON, SQLite
+* **Network & System Operations**
+  * TCP/IP, BGP, OSPF protocols
+  * Linux server administration and network maintenance
+  * Prometheus, Grafana, Ansible for monitoring and automation
+* **Project Management**
+  * Agile & Scrum methodologies
+  * Progress tracking, documentation, and requirement analysis
+  * Team coordination and risk assessment for backend systems
+* **Tools & Platforms**
+  * Git / GitHub, Docker, Jenkins, Android Studio, Jira
+  * OpenStack, VMware, basic AWS usage
+* **Languages**
+  * Chinese (Native)
+  * English (Professional working proficiency)
 
 Publications
 ======
@@ -54,11 +66,11 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Service and leadership
 ======
