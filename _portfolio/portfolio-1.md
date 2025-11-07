@@ -1,6 +1,6 @@
 ---
 title: "Boring"
-excerpt: "sososososososososo<br/><img src='/images/233333.png'>"
+excerpt: "Visual representation of the physical model of a black hole pulling in a cigarette<br/><img src='https://mrwhy233.github.io/tryhard.github.io/images/233333.png'>"
 collection: portfolio
 ---
 
