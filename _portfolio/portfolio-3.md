@@ -10,7 +10,7 @@ collection: portfolio
 
 一个基于 **HTML + CSS + JavaScript** 构建的响应式个人简历与作品展示网站，采用现代化动画、流畅的交互效果和粒子背景设计，适用于技术类从业者（如网络工程师、开发者、设计师）的在线简历展示。
 
-![界面演示](/images/geren.gif)
+![界面演示](https://mrwhy233.github.io/tryhard.github.io/images/geren.gif)
 
 ## 🌐 在线预览
 
